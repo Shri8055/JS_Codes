@@ -1,0 +1,10 @@
+*{
+    font-family: 'poppins',sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+h1{
+    width: 10%;
+    display: inline;
+}
