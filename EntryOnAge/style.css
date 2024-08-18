@@ -1,0 +1,51 @@
+body{
+    font-family: 'Asul',sans-serif;
+    text-align: center;
+    font-size: 8em;
+    display: block;
+    margin-top: 10%;
+    background-color: gray;
+    overflow-y: hidden;
+    display: block;
+    position: relative;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input{
+    font-family: 'Asul',sans-serif;
+    width: 13%;
+    font-size: 1em;
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(148, 191, 200);
+    margin-top: 30px;
+}
+.subBut{
+    display: block;
+    margin: auto;
+    margin-top: -100px;
+    padding: 15px 25px;
+    font-family: 'Asul',sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 7px;
+    border: 1px dashed rgb(255, 147, 147);
+    background-color: rgb(252, 223, 184);
+    transition: .5s;
+}
+.subBut:hover{
+    transform: scale(1.05);
+    transition: .5s;
+    background-color: rgb(255, 211, 155);
+}
+.subBut:active{
+    transform: scale(0.9);
+}
+p{
+    margin-top: -100px;
+    font-size: 16px;
+    color: rgb(196, 196, 196);
+}
