@@ -12,13 +12,17 @@ Circumferance of Circle
 
 Entry On Age
 ![image](https://github.com/user-attachments/assets/16a38440-15ba-4aff-acbf-c54b9b85ffab)
+Visit here 👉 https://shri8055.github.io/JS_Codes/EntryOnAge/
 
 Dice Roller
 ![image](https://github.com/user-attachments/assets/7f5876c7-8368-4b4c-9b59-f604a687a938)
 ![image](https://github.com/user-attachments/assets/a8d2a30e-e154-42df-99b9-c2a194887d15)
+Visit here 👉 https://shri8055.github.io/JS_Codes/DiceRoller/
 
 Temperature Converter
 ![image](https://github.com/user-attachments/assets/98fc9ec9-948e-45bf-9326-b7070f472e06)
+Visit here 👉 https://shri8055.github.io/JS_Codes/TempConv/
 
 Random Password Generator
 ![image](https://github.com/user-attachments/assets/3ebb1ecf-8366-4f11-b112-097ab5ef4b62)
+Visit here 👉 https://shri8055.github.io/JS_Codes/RandomPassGen/
