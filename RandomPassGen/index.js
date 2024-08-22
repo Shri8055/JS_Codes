@@ -18,11 +18,13 @@ function generate(){
     allchar+=includeNum?Numchar:"";
     allchar+=includeSym?Symchar:"";
 
-    if(length<0){
-        console.log(`Password length cant be Zero`);
+    if(passlength<=5){
+        document.getElementById("opt").textContent=`Length can't be less than 5`;
+        return;
     }
     if(allchar.length===0){
-        console.log(`Select atleast one option`);
+        document.getElementById("opt").textContent=`Select atleast one option`;
+        return;
     }
     for(let i=0;i<passlength;i++){
         const randomInd=Math.floor(Math.random()*allchar.length);
