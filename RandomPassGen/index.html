@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Practice</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Random Password Generator</h1><hr class="headhr">
+        <div class="radBut">
+            <br><label for="Inp">Pass Size : </label>
+            <input type="number" value="12" id="Inp"><br><br>
+
+            <input type="checkbox" id="che1">
+            <label for="che1">Include Lower Case</label><br>
+
+            <input type="checkbox" id="che2">
+            <label for="che2">Include Upper Case</label><br>
+
+            <input type="checkbox" id="che3">
+            <label for="che3">Include Numbers</label><br>
+
+            <input type="checkbox" id="che4">
+            <label for="che4">Include Symbols</label><br>
+
+            <button type="button" onclick="generate()">Generate</button>
+        </div>
+        <div id="opt">0</div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
