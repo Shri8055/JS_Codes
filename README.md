@@ -10,6 +10,10 @@ Manual Conuter
 Circumferance of Circle
 ![image](https://github.com/user-attachments/assets/b0b173f0-97a7-45c9-9749-6570d4e6ea2b)
 
+Clock
+![image](https://github.com/user-attachments/assets/53e57bbf-0842-47c3-ae37-387b017c9f1d)
+Visit here 👉 https://shri8055.github.io/JS_Codes/Clock/
+
 Entry On Age
 ![image](https://github.com/user-attachments/assets/16a38440-15ba-4aff-acbf-c54b9b85ffab)
 Visit here 👉 https://shri8055.github.io/JS_Codes/EntryOnAge/
