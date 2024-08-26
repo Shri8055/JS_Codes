@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    font-family: "Special Elite", system-ui;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+    background-color: rgb(211, 211, 211);
+}
+.myH1{
+    font-size: 7rem;
+    font-weight: bold;
+    color: rgb(62, 62, 62);
+}
+.stopwatch{
+    font-size: 3rem;
+    text-align: center;
+    border: 2px solid rgb(67, 67, 67);
+    border-radius: 15px;
+    padding: 90px;
+}
+.time{
+    margin: 50px 20px;
+    text-shadow: 2px 2px 2px gray;
+    color: rgb(114, 114, 114);
+}
+.controls button{
+    font-size: 26px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    border: 1px solid black;
+    transition: .2s;
+    color: rgb(81, 81, 81);
+}
+button:hover{
+    transition: .2s;
+    color: rgb(40, 40, 40);
+    text-shadow: 1px 1px 1px rgb(87, 87, 87);
+}
+#start{
+    background-color: skyblue;
+}
+#stop{
+    background-color: rgb(255, 107, 107);
+}
+#reset{
+    background-color: rgb(196, 252, 113);
+}
