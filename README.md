@@ -34,3 +34,7 @@ Visit here 👉 https://shri8055.github.io/JS_Codes/TempConv/
 Random Password Generator
 ![image](https://github.com/user-attachments/assets/3ebb1ecf-8366-4f11-b112-097ab5ef4b62)
 Visit here 👉 https://shri8055.github.io/JS_Codes/RandomPassGen/
+
+Calculator
+![image](https://github.com/user-attachments/assets/6177c6db-5b33-40e6-b344-600f9d18ac2a)
+Visit here 👉 https://shri8055.github.io/JS_Codes/Calculator/
