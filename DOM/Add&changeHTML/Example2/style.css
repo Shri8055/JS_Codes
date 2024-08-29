@@ -1,0 +1,14 @@
+#fruits{
+    border: 2px solid black;
+    width: 40%;
+    font-size: 3rem;
+    margin: auto;
+}
+li{
+    margin-left: 20px;
+}
+#mango{
+    background-color: rgb(255, 179, 0);
+    font-weight: bold;
+    width: 20%;
+}
