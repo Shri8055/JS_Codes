@@ -1,0 +1,9 @@
+.mybutts{
+    font-family: "Montserrat", system-ui;
+    padding: 10px 20px;
+    background-color: skyblue;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
