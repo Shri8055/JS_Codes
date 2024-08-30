@@ -1,0 +1,12 @@
+#myBox{
+    font-size: 4rem;
+    width: 250px;
+    height: 200px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(255, 227, 127);
+}
