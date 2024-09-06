@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    font-family: "SUSE", sans-serif;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    font-size: 4rem;
+}
+.choices{
+    margin-bottom: 30px;
+}
+button{
+    border: none;
+}
+.choices button{
+    font-size: 7rem;
+    min-width: 160px;
+    margin: 0 10px;
+    border-radius: 30px;
+    background-color: rgb(27, 190, 255);
+    cursor: pointer;
+}
+#playerDisp, #computerDisp{
+    font-size: 2rem;
+}
+#resultDisp{
+    font-size: 2rem;
+    margin: 30px;
+}
+.win{
+    color: lightgreen;
+}
+.lose{
+    color: tomato;
+}
+.tie{
+    color: rgb(59, 59, 255);
+}
