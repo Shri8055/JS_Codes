@@ -49,3 +49,20 @@ Visit here 👉 https://shri8055.github.io/JS_Codes/Calculator/
 Rock-Paper-Sissor
 ![image](https://github.com/user-attachments/assets/852e9fcb-0e0e-495a-9b74-0ed0062a37c4)
 Visit here 👉 https://shri8055.github.io/JS_Codes/RockPaperSissor/
+
+Magic Button
+![image](https://github.com/user-attachments/assets/7c285320-5bad-4e94-aa58-2c85ba0cce3e)
+Visit here 👉 https://shri8055.github.io/JS_Codes/P1_MouseTranckedHeart/
+
+Auto Text
+![image](https://github.com/user-attachments/assets/9588e48e-7a33-449d-b23e-a4c832d39750)
+![image](https://github.com/user-attachments/assets/c1b5ea45-5acb-45da-bb9c-090a571d9b9d)
+Visit here 👉 https://shri8055.github.io/JS_Codes/P2_AutoText/
+
+Live Calender
+![image](https://github.com/user-attachments/assets/0c56a95d-64d8-433d-8db6-30b086628a17)
+Visit here 👉 https://shri8055.github.io/JS_Codes/P3_LiveCalender/
+
+
+
+
