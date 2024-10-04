@@ -61,6 +61,8 @@ Visit here 👉 https://shri8055.github.io/JS_Codes/P2_AutoText/
 
 Live Calender
 ![image](https://github.com/user-attachments/assets/0c56a95d-64d8-433d-8db6-30b086628a17)
+Updated
+![image](https://github.com/user-attachments/assets/9f3c67b8-7d01-470e-9bf9-b999cc3be322)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P3_LiveCalender/
 
 
