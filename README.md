@@ -70,4 +70,9 @@ Button Ripple Effect
 ![image](https://github.com/user-attachments/assets/1d9255e0-6268-4f03-b094-0148b7ffe17b)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P4_buttonRipple/
 
+Random Image Loader
+![image](https://github.com/user-attachments/assets/0574248c-6e78-416e-ae11-0ddc4c476a68)
+![image](https://github.com/user-attachments/assets/70018ae9-413b-41a9-a95e-9bb82730cd38)
+Visit here 👉 https://shri8055.github.io/JS_Codes/P5_RandomPhotos/
+
 
