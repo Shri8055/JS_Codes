@@ -76,7 +76,7 @@ Random Image Loader
 Visit here 👉 https://shri8055.github.io/JS_Codes/P5_RandomPhotos/
 
 Dark/light mode toggler
-![image](https://github.com/user-attachments/assets/0daf7b61-212c-4153-9712-6205ccd135a9)
+![image](https://github.com/user-attachments/assets/302d4bb9-ffd8-4a0d-9a3a-9c51834170ba)
 ![image](https://github.com/user-attachments/assets/385802bd-be07-4228-9db9-fe9dd2d5aac9)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P6_DarkModeToggle/
 
