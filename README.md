@@ -1,91 +1,91 @@
 # JS_Codes
 Enjoying JS (⌐■_■)
 
-User Inputs
+◉ User Inputs
 ![image](https://github.com/user-attachments/assets/fc58e1e5-f35f-4411-9d2b-608b7fbfe7d0)
 
-Manual Counter
+◉ Manual Counter
 ![image](https://github.com/user-attachments/assets/d721f0f9-3a16-46cb-8c77-afdeadd261a4)
 
-Circumferance of Circle
+◉ Circumferance of Circle
 ![image](https://github.com/user-attachments/assets/b0b173f0-97a7-45c9-9749-6570d4e6ea2b)
 
-Clock
+◉ Clock
 ![image](https://github.com/user-attachments/assets/53e57bbf-0842-47c3-ae37-387b017c9f1d)
 Visit here 👉 https://shri8055.github.io/JS_Codes/Clock/
 
-Stopwatch
+◉ Stopwatch
 ![image](https://github.com/user-attachments/assets/76165ba0-acf2-446b-b5a5-940d7ff24465)
 Visit here 👉 https://shri8055.github.io/JS_Codes/Stopwatch/
 
-Entry On Age
+◉ Entry On Age
 ![image](https://github.com/user-attachments/assets/16a38440-15ba-4aff-acbf-c54b9b85ffab)
 Visit here 👉 https://shri8055.github.io/JS_Codes/EntryOnAge/
 
-Dice Roller
+◉ Dice Roller
 ![image](https://github.com/user-attachments/assets/7f5876c7-8368-4b4c-9b59-f604a687a938)
 ![image](https://github.com/user-attachments/assets/a8d2a30e-e154-42df-99b9-c2a194887d15)
 Visit here 👉 https://shri8055.github.io/JS_Codes/DiceRoller/
 
-Temperature Converter
+◉ Temperature Converter
 ![image](https://github.com/user-attachments/assets/98fc9ec9-948e-45bf-9326-b7070f472e06)
 Visit here 👉 https://shri8055.github.io/JS_Codes/TempConv/
 
-Random Password Generator
+◉ Random Password Generator
 ![image](https://github.com/user-attachments/assets/3ebb1ecf-8366-4f11-b112-097ab5ef4b62)
 Visit here 👉 https://shri8055.github.io/JS_Codes/RandomPassGen/
 
-Show And Hide HTML
+◉ Show And Hide HTML
 
 ![image](https://github.com/user-attachments/assets/6c09ad2d-fb4d-4feb-9aeb-43b3bf0843cd)
 ![image](https://github.com/user-attachments/assets/70dd4bb3-63c1-4f23-986d-3125ee8d163c)
 
 Visit here 👉 https://shri8055.github.io/JS_Codes/Show&HideHTML/
 
-Calculator
+◉ Calculator
 ![image](https://github.com/user-attachments/assets/6177c6db-5b33-40e6-b344-600f9d18ac2a)
 Visit here 👉 https://shri8055.github.io/JS_Codes/Calculator/
 
-Rock-Paper-Sissor
+◉ Rock-Paper-Sissor
 ![image](https://github.com/user-attachments/assets/852e9fcb-0e0e-495a-9b74-0ed0062a37c4)
 Visit here 👉 https://shri8055.github.io/JS_Codes/RockPaperSissor/
 
-Magic Button
+◉ Magic Button
 ![image](https://github.com/user-attachments/assets/7c285320-5bad-4e94-aa58-2c85ba0cce3e)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P1_MouseTranckedHeart/
 
-Auto Text
+◉ Auto Text
 ![image](https://github.com/user-attachments/assets/9588e48e-7a33-449d-b23e-a4c832d39750)
 ![image](https://github.com/user-attachments/assets/c1b5ea45-5acb-45da-bb9c-090a571d9b9d)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P2_AutoText/
 
-Live Calender
+◉ Live Calender
 ![image](https://github.com/user-attachments/assets/0c56a95d-64d8-433d-8db6-30b086628a17)
 Updated
 ![image](https://github.com/user-attachments/assets/9f3c67b8-7d01-470e-9bf9-b999cc3be322)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P3_LiveCalender/
 
-Button Ripple Effect
+◉ Button Ripple Effect
 ![image](https://github.com/user-attachments/assets/7d105726-5fd3-41bb-9bfa-1a77e4a94bc6)
 ![image](https://github.com/user-attachments/assets/1d9255e0-6268-4f03-b094-0148b7ffe17b)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P4_buttonRipple/
 
-Random Image Loader
+◉ Random Image Loader
 ![image](https://github.com/user-attachments/assets/0574248c-6e78-416e-ae11-0ddc4c476a68)
 ![image](https://github.com/user-attachments/assets/70018ae9-413b-41a9-a95e-9bb82730cd38)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P5_RandomPhotos/
 
-Dark/light mode toggler
+◉ Dark/light mode toggler
 ![image](https://github.com/user-attachments/assets/302d4bb9-ffd8-4a0d-9a3a-9c51834170ba)
 ![image](https://github.com/user-attachments/assets/385802bd-be07-4228-9db9-fe9dd2d5aac9)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P6_DarkModeToggle/
 
-Testomonial Slider
+◉ Testomonial Slider
 ![image](https://github.com/user-attachments/assets/c5c05fbd-0a51-4d84-8ec3-acc998a9117c)
 ![image](https://github.com/user-attachments/assets/d13a6444-21a7-4bf9-bb64-64b25ced3e7b)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P7_TestominialSlider/
 
-Random Color Generator
+◉ Random Color Generator
 ![image](https://github.com/user-attachments/assets/7aaaffd5-5131-4d51-8841-7743c3d3d852)
 ![image](https://github.com/user-attachments/assets/61fc0cf0-cf30-4496-8f2e-22562e3ae174)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P8_RandomColorGen/
