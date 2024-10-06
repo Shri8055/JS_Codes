@@ -80,3 +80,8 @@ Dark/light mode toggler
 ![image](https://github.com/user-attachments/assets/385802bd-be07-4228-9db9-fe9dd2d5aac9)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P6_DarkModeToggle/
 
+Testomonial Slider
+![image](https://github.com/user-attachments/assets/c5c05fbd-0a51-4d84-8ec3-acc998a9117c)
+![image](https://github.com/user-attachments/assets/d13a6444-21a7-4bf9-bb64-64b25ced3e7b)
+Visit Here 👉 https://shri8055.github.io/JS_Codes/P7_TestominialSlider/
+
