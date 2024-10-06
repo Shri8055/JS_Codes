@@ -83,5 +83,11 @@ Visit here 👉 https://shri8055.github.io/JS_Codes/P6_DarkModeToggle/
 Testomonial Slider
 ![image](https://github.com/user-attachments/assets/c5c05fbd-0a51-4d84-8ec3-acc998a9117c)
 ![image](https://github.com/user-attachments/assets/d13a6444-21a7-4bf9-bb64-64b25ced3e7b)
-Visit Here 👉 https://shri8055.github.io/JS_Codes/P7_TestominialSlider/
+Visit here 👉 https://shri8055.github.io/JS_Codes/P7_TestominialSlider/
+
+Random Color Generator
+![image](https://github.com/user-attachments/assets/7aaaffd5-5131-4d51-8841-7743c3d3d852)
+![image](https://github.com/user-attachments/assets/61fc0cf0-cf30-4496-8f2e-22562e3ae174)
+Visit here 👉 https://shri8055.github.io/JS_Codes/P8_RandomColorGen/
+
 
