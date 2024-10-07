@@ -90,4 +90,12 @@ Visit here 👉 https://shri8055.github.io/JS_Codes/P7_TestominialSlider/
 ![image](https://github.com/user-attachments/assets/61fc0cf0-cf30-4496-8f2e-22562e3ae174)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P8_RandomColorGen/
 
+◉ Rotating Image Slider
+![image](https://github.com/user-attachments/assets/ae8ac079-5f96-44dd-93ba-b2e8064545bd)
+![image](https://github.com/user-attachments/assets/b71493b0-3e23-4083-bcca-a6058ba071aa)
+Visit here 👉 https://shri8055.github.io/JS_Codes/P9_RotatingImageSlider/
+
+◉ Loan Calculator
+![image](https://github.com/user-attachments/assets/e12f7e2f-270e-4bf5-bf23-379690cf2cfe)
+Visit here 👉 https://shri8055.github.io/JS_Codes/P10_LoanCalculator/
 
