@@ -99,3 +99,6 @@ Visit here 👉 https://shri8055.github.io/JS_Codes/P9_RotatingImageSlider/
 ![image](https://github.com/user-attachments/assets/e12f7e2f-270e-4bf5-bf23-379690cf2cfe)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P10_LoanCalculator/
 
+◉ Age Calculator
+![image](https://github.com/user-attachments/assets/8064991a-dcee-4a98-8155-babe54999ebc)
+Visit here 👉 https://shri8055.github.io/JS_Codes/P11_AgeCalculator/
