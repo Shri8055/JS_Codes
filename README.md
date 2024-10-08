@@ -102,3 +102,8 @@ Visit here 👉 https://shri8055.github.io/JS_Codes/P10_LoanCalculator/
 ◉ Age Calculator
 ![image](https://github.com/user-attachments/assets/8064991a-dcee-4a98-8155-babe54999ebc)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P11_AgeCalculator/
+
+◉ Profile Statistics
+![image](https://github.com/user-attachments/assets/a7ee5429-1230-4ee4-8023-299dc5bce380)
+Visit here 👉 https://shri8055.github.io/JS_Codes/P12_ProfileStats/
+
