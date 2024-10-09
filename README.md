@@ -107,3 +107,17 @@ Visit here 👉 https://shri8055.github.io/JS_Codes/P11_AgeCalculator/
 ![image](https://github.com/user-attachments/assets/a7ee5429-1230-4ee4-8023-299dc5bce380)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P12_ProfileStats/
 
+Advanced Calculator
+![image](https://github.com/user-attachments/assets/236ed0e2-679b-439d-955f-817c2b3bc92b)
+https://shri8055.github.io/JS_Codes/P13_AdvancedCalculator/
+
+Random Text Generator
+![image](https://github.com/user-attachments/assets/0ab34259-248b-45b5-8dc3-7a635df3474a)
+https://shri8055.github.io/JS_Codes/P14_RandomTextGenerator/
+
+To-Do List
+![image](https://github.com/user-attachments/assets/25aa79c4-bf57-4eb9-8a23-9c098f5553d8)
+https://shri8055.github.io/JS_Codes/P15_ToDoList/
+
+
+
