@@ -119,5 +119,7 @@ Visit here 👉 https://shri8055.github.io/JS_Codes/P14_RandomTextGenerator/
 ![image](https://github.com/user-attachments/assets/25aa79c4-bf57-4eb9-8a23-9c098f5553d8)
 Visit here 👉 https://shri8055.github.io/JS_Codes/P15_ToDoList/
 
-
+◉ Random Jokes and Emoji using API
+![image](https://github.com/user-attachments/assets/fddf5a44-3905-48ea-b526-055e6789f95d)
+https://shri8055.github.io/JS_Codes/API/
 
