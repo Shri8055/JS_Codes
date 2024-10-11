@@ -121,5 +121,8 @@ Visit here 👉 https://shri8055.github.io/JS_Codes/P15_ToDoList/
 
 ◉ Random Jokes and Emoji using API
 ![image](https://github.com/user-attachments/assets/fddf5a44-3905-48ea-b526-055e6789f95d)
+Updated
+![image](https://github.com/user-attachments/assets/4f84e0eb-83bf-4b92-bd0c-e31cf2dacf3d)
+![image](https://github.com/user-attachments/assets/17fc92ba-0bc6-4b05-a781-0e421ada54d2)
 Visit here 👉 https://shri8055.github.io/JS_Codes/API/
 
