@@ -127,3 +127,9 @@ Updated
 ![image](https://github.com/user-attachments/assets/cf8d8499-c7f1-42f1-8585-67659d129af8)
 Visit here 👉 https://shri8055.github.io/JS_Codes/API/
 
+◉ Weather using API
+![image](https://github.com/user-attachments/assets/345a33aa-ff7b-4aef-b607-bc2f05101fa2)
+![image](https://github.com/user-attachments/assets/b5ea7d98-dd7f-40c9-a57f-7f7d463edcd7)
+![image](https://github.com/user-attachments/assets/21b5a88a-73bb-4d4c-bc60-d5a0695021bd)
+![image](https://github.com/user-attachments/assets/94ab9b8e-4de9-4250-8a80-dad91b67a8fd)
+Visit here 👉 https://shri8055.github.io/JS_Codes/API_WeatherApp/
