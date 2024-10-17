@@ -125,7 +125,7 @@ Updated
 ![image](https://github.com/user-attachments/assets/4f84e0eb-83bf-4b92-bd0c-e31cf2dacf3d)
 ![image](https://github.com/user-attachments/assets/17fc92ba-0bc6-4b05-a781-0e421ada54d2)
 ![image](https://github.com/user-attachments/assets/cf8d8499-c7f1-42f1-8585-67659d129af8)
-Visit here 👉 https://shri8055.github.io/JS_Codes/API/
+Visit here 👉 https://shri8055.github.io/JS_Codes/API_RandomJokes/
 
 ◉ Weather using API
 ![image](https://github.com/user-attachments/assets/345a33aa-ff7b-4aef-b607-bc2f05101fa2)
