@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(110, 202, 238);
+}
+.container{
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 4rem;
+}
+p{
+    display: inline-block;
+}
